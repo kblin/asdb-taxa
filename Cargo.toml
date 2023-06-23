@@ -1,7 +1,12 @@
 [package]
 name = "asdb-taxa"
+description = "NCBI taxdump handling for the antiSMASH database"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kai Blin <kblin@biosustain.dtu.dk>"]
+repository = "https://github.com/kblin/asdb-taxa.git"
+readme = "README.md"
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
